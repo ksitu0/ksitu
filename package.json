@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.2",
-    "autoprefixer": "^10.4.4",
+    "autoprefixer": "^10.4.7",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23",
     "tailwindcss-animate": "^1.0.5"
